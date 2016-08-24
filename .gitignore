@@ -2,3 +2,4 @@
 src
 node_modules
 tasks/node_modules
+tasks/sftp.json

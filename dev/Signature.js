@@ -1,5 +1,5 @@
 var crypto = require('crypto');
-var APP_SECRET_KEY = '847302DABAE781038AB388DD';
+var APP_SECRET_KEY = '######################';
 
 function check(query) {
     var signature = calculateSignature(query);
