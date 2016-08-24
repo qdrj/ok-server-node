@@ -1,0 +1,45 @@
+[
+	{
+		"name": "100 Монет",
+		"description": "Монеты позволяют вам покупать бустеры и пройти игру быстрее.",
+		"code": "1",
+		"price": 1,
+		"image": "Coins_1",
+		"coins": 100,
+		"best_value": false,
+		"most_popular": false
+	},
+
+	{
+		"name": "200 Монет",
+		"description": "Монеты позволяют вам покупать бустеры и пройти игру быстрее.",
+		"code": "2",
+		"image": "Coins_2",
+		"coins": 200,
+		"price": 1,
+		"best_value": false,
+		"most_popular": true
+	},
+
+	{
+		"name": "500 Монет",
+		"description": "Монеты позволяют вам покупать бустеры и пройти игру быстрее.",
+		"code": "3",
+		"image": "Coins_3",
+		"coins": 500,
+		"price": 1,
+		"best_value": false,
+		"most_popular": false
+	},
+
+	{
+		"name": "1000 Монет",
+		"description": "Монеты позволяют вам покупать бустеры и пройти игру быстрее.",
+		"code": "4",
+		"image": "Coins_4",
+		"coins": 1000,
+		"price": 1,
+		"best_value": true,
+		"most_popular": false
+	}
+]
